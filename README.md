@@ -28,3 +28,5 @@ IoT 개발자 TCP/IP 네트워크 프로그래밍 학습 리포지토리
 - send & recv 함수
 - readv & writev 함수
 - 표준 입출력 함수
+
+## 6일차
