@@ -36,3 +36,8 @@ IoT 개발자 TCP/IP 네트워크 프로그래밍 학습 리포지토리
     - 쓰레드 동기화
         - 뮤텍스 - 쓰레드의 동시접근 허용 X
         - 세마포어
+
+## 7일차
+- WebPage 배열을 전송하는 웹 서버 구현하기
+
+    ![웹서버](https://raw.githubusercontent.com/LEUNSU/basic-TCP-IP-2024/main/images/WebServer.png)
