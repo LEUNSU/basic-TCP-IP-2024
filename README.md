@@ -7,6 +7,10 @@ IoT 개발자 TCP/IP 네트워크 프로그래밍 학습 리포지토리
 - 소(소켓 socket) 말(바인더 bind) 리(리슨 listen) 아(엑셉트 accept)
 
 ## 2일차
+- TCP/IP 프로토콜 스택 4계층
+    
+    ![4계층](https://raw.githubusercontent.com/LEUNSU/basic-TCP-IP-2024/main/images/001.png)
+
 - 서버 & 클라이언트 구현 : socket() -> bind() -> listen() -> accept() -> read()/write() -> close()
     - TCP
     - UDP
